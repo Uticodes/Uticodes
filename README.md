@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
 - 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
-- 💼 &nbsp; I can work with Java, Kotlin, and Flutter/Dart.
+- 💼 &nbsp; I can work with Java, Kotlin, and Dart.
 - 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
 - 🌱 I’m currently actively learning Kotlin Multiplatform(KMM).
 - 📫 How to reach me **etim.utibe@gmail.com**
@@ -12,7 +12,8 @@
 <h3>🛠 Tech Stack | Tools</h3>
 
 - 💻 &nbsp; Dart | Java | Kotlin
-- 🌐 &nbsp; Android | flutter
+- 🌐 &nbsp; Android | iOS | 
+- 🌐 &nbsp; Flutter | Compose | KMM
 - 🛢 &nbsp; REST | GraphQl | Firebase
 - 🔧 &nbsp; Android Studio | Visual Studio code | Xcode
 - ✨ &nbsp; Git
