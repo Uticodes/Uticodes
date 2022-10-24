@@ -1,20 +1,27 @@
-<h2> Hey there! I'm Utibe Etim. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Utibe Etim. <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
-- 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
+- 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; I can work with Java, Kotlin, and Flutter/Dart.
-- 🌱 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
-- 👯♂ I’m currently actively learning Jetpack Compose.
+- 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
+- 🌱 I’m currently actively learning Kotlin Multiplatform(KMM).
+- 📫 How to reach me **etim.utibe@gmail.com**
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack | Tools</h3>
 
 - 💻 &nbsp; Dart | Java | Kotlin
 - 🌐 &nbsp; Android | flutter
-- 🛢 &nbsp; GraphQl | Firebase
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Figma
+- 🛢 &nbsp; REST | GraphQl | Firebase
+- 🔧 &nbsp; Android Studio | Visual Studio code | Xcode
+- ✨ &nbsp; Git
+- 🖥 &nbsp; Figma | Zeplin | Adobe
+- 📙 &nbsp; Trello | Airtable | JIRA 
+- 🤝 &nbsp; Slack | Discord | Teams
+
+![Profile Views](https://komarev.com/ghpvc/?username=Uticodes&style=flat)
+
 
 <br>
 
@@ -27,7 +34,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="start">
 &nbsp; <a href="https://twitter.com/Uticodes" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/utibe__etim/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/utibe-etim-0a901a107/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
