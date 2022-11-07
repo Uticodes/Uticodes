@@ -5,6 +5,7 @@
 - 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
 - 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; I can work with Java, Kotlin, and Dart.
+- ✍️  &nbsp; I write technical articles/contents.
 - 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
 - 🌱 I’m currently actively learning Kotlin Multiplatform(KMM).
 - 📫 How to reach me **etim.utibe@gmail.com**
