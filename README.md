@@ -7,7 +7,7 @@
 - 💼 &nbsp; I can work with Java, Kotlin, and Dart.
 - ✍️  &nbsp; I write technical articles/contents.
 - 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
-- 🌱 &nbsp; I’m currently actively learning Kotlin Multiplatform(KMM).
+- 🌱 &nbsp; I’m currently actively learning Kotlin Multiplatform(KMP).
 - 📫 &nbsp; How to reach me **etim.utibe@gmail.com**
 
 <h3>🛠 Tech Stack | Tools</h3>
@@ -41,5 +41,6 @@
 &nbsp; <a href="https://www.instagram.com/utibe__etim/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/utibe-etim-0a901a107/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:etim.utibe@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://medium.com/@utibeetim" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/utibe/image/upload/v1674683266/Converter/icons8-medium-64_ztgllm.png"  width="50"/></a>
 </p>
 
