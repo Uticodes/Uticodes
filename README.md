@@ -4,10 +4,10 @@
 
 - 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
 - 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
-- 💼 &nbsp; I can work with Java, Kotlin, and Dart.
+- 💼 &nbsp; I can work with Java, Kotlin, Dart, Kotlin Multiplatform(KMM), and SwiftUI.
 - ✍️  &nbsp; I write technical articles/contents.
-- 💖 &nbsp; Enthusiast in AI (Deep Learning) and Blockchain.
-- 🌱 &nbsp; I’m currently actively learning Kotlin Multiplatform(KMP).
+- 💖 &nbsp; Enthusiast in AI (Deep Learning), Cybersecurity, and Blockchain.
+- 🌱 &nbsp; I’m currently actively learning Cybersecurity.
 - 📫 &nbsp; How to reach me **etim.utibe@gmail.com**
 
 <h3>🛠 Tech Stack | Tools</h3>
