@@ -7,14 +7,14 @@
 - 💼 &nbsp; I can work with Java, Kotlin, Dart, Kotlin Multiplatform(KMM), and SwiftUI.
 - ✍️  &nbsp; I write technical articles/contents.
 - 💖 &nbsp; Enthusiast in AI (Deep Learning), Cybersecurity, and Blockchain.
-- 🌱 &nbsp; I’m currently actively learning Cybersecurity.
+- 🌱 &nbsp; I’m currently actively learning Cybersecurity with Google Certifications Program.
 - 📫 &nbsp; How to reach me **etim.utibe@gmail.com**
 
 <h3>🛠 Tech Stack | Tools</h3>
 
-- 💻 &nbsp; Dart | Java | Kotlin
+- 💻 &nbsp; Dart | Java | Kotlin |
 - 🌐 &nbsp; Android | iOS | 
-- 🌐 &nbsp; Flutter | Compose | KMM
+- 🌐 &nbsp; Flutter | Compose | KMM | SwiftUI
 - 🛢 &nbsp; REST | GraphQl | Firebase
 - 🔧 &nbsp; Android Studio | Visual Studio code | Xcode
 - ✨ &nbsp; Git
