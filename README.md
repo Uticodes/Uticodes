@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a clever and studious Mobile Engineer,
+- 🔭 &nbsp; I’m a clever and studious Mobile Software Engineer,
 - 😊 &nbsp; Building solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; I can work with Java, Kotlin, Dart, Kotlin Multiplatform(KMM), and SwiftUI.
 - ✍️  &nbsp; I write technical articles/contents.
